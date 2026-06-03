@@ -12,4 +12,4 @@ model.fit(X, y)
 
 joblib.dump(model, 'model.pkl')
 
-print("Model trained and saved as model.pkl")
+print("Model trained, saved as model.pkl,added to github repository")
